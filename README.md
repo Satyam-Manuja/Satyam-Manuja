@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a MERN Stack Developer<br>I have hands on experience on full stack projects<br>I'm learning AI integration in web apps<br><br>
+I'm a Web Developer<br>I have hands on experience on full stack projects<br>I'm learning AI integration in web apps<br><br>
 
 
 ## 🌐 Socials:
